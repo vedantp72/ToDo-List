@@ -1,0 +1,33 @@
+body {
+  background-color: #93a6cc;
+}
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #b9744d;
+}
+.container-fluid {
+  /* margin-left: 400px !important; */
+  /* height: 500px !important; */
+  width: 550px !important;
+  background-color: #8a9589;
+  justify-content: center !important;
+  text-align: center !important;
+}
+table{
+  justify-content: center !important;
+}
+.btn-sm {
+
+  position: relative;
+  left: -50px;
+  bottom: 2px;
+  
+}
+footer{
+  position: relative;
+  top: -10px;
+  left: 275px;
+}
